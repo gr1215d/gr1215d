@@ -2,7 +2,7 @@
   
  <head>
    
-  <title>My Personal Webpage</title>
+  <title>  My Personal Webpage</title>
    
   <style>
   
